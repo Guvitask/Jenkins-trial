@@ -1,5 +1,6 @@
-Def hello():
-     return "hello, Jenkins!"
+def hello():
+    return "Welcome Jenkins"
 
-if__name__== "__main__":
-     print(hello())
+if __name__ == "__main__":
+    print(hello())
+
